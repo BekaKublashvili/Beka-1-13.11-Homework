@@ -1,0 +1,69 @@
+body{
+    background-color: white;
+    display: flex;
+justify-content: center;
+height: 100vh;
+}
+.container1{
+    display: flex;
+    align-items: center;
+    color: #f56156;
+    
+}
+.containerall{
+    background-color: #f7f6fc;
+    padding: 20px;
+    width: 400px;
+    
+}
+.velebi1{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    padding: 17px;
+    font-size: 20px;
+}
+input{
+    font-size: 15px;
+    border-radius: 5px;
+    height: 25px;
+    
+}
+.velebi2{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding: 17px;
+    font-size: 20px;
+}
+.velebi3{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 17px;
+    font-size: 20px;
+}
+.sqesi{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    
+}
+.sqesiall{
+    display: flex;
+    gap: 110px;
+    padding: 20px;
+    font-size: 20px;
+}
+.qveyana{
+    display: flex;
+    padding: 20px;
+    gap: 80px;
+    align-items: center;
+    font-size: 20px;
+
+}
+.bolos{
+    width: 300px;
+    padding: 20px;
+}
